@@ -2530,6 +2530,7 @@ var cnames_active = {
   "pinipig": "jmdisuanco.github.io/pinipig",
   "pino-nest": "yamcodes.github.io/pino-nestjs",
   "pinyin": "hotoo.github.io/pinyin",
+  "pip": "slimekrew.github.io/pypi-index",
   "pipes": "pipesjs.github.io", // noCF? (don´t add this in a new PR)
   "pivot": "wnda.github.io/pivot",
   "pivotgrid": "iskandr1.github.io/Pivot",
